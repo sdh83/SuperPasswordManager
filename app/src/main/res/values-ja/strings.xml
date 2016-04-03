@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Super Password Manager</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+
+
+    <string name="account_name">アカウント名</string>
+    <string name="user_name">ユーザ名</string>
+    <string name="pword">パスワード</string>
+    <string name="acctExists">このアカウント名を持つレコードがすでに存在しています</string>
+    <string name="saved">保存</string>
+    <string name="noBlank">空白にすることはできません</string>
+    <string name="expt">にエクスポート： </string>
+    <string name="subtl">アカウント</string>
+    <string name="subtl2">アカウントデータ</string>
+    <string name="copied">パスワードは、クリップボードにコピーされました</string>
+
+    <string name="save">セーブ</string>
+    <string name="gen">パスワードを生成</string>
+    <string name="viewSaved">ビューパスワード</string>
+    <string name="export">エクスポート・データベース</string>
+    <string name="importD">インポート・データベース</string>
+    <string name="copy">Kopī</string>
+    <string name="entryDeleted">エントリ削除</string>
+    <string name="canceled">キャンセル</string>
+    <string name="delete">このエントリを削除しますか？</string>
+    <string name="yes">Hai</string>
+    <string name="no">Īe</string>
+
+    <string name="chrs">0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz!@#$%&amp;*</string>
+
+    <string name="large_text">
+
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>

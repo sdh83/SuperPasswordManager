@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Super Password Manager</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+
+
+    <string name="account_name">Счет</string>
+    <string name="user_name">имя пользователя</string>
+    <string name="pword">пароль</string>
+    <string name="acctExists">запись с этим именем учетной записи уже существует</string>
+    <string name="saved">сохранены</string>
+    <string name="noBlank">не может быть пустым</string>
+    <string name="expt">экспортируется в: </string>
+    <string name="subtl">Счета</string>
+    <string name="subtl2">данные учетной записи</string>
+    <string name="copied">пароль копируется в буфер обмена</string>
+
+    <string name="save">спасти</string>
+    <string name="gen">сгенерировать пароль</string>
+    <string name="viewSaved">сохраненные пароли</string>
+    <string name="export">экспорт базы данных</string>
+    <string name="importD">импорт базы данных</string>
+    <string name="copy">копия</string>
+    <string name="entryDeleted">
+запись удалена</string>
+    <string name="canceled">отменен</string>
+    <string name="delete">
+удалить эту запись ?</string>
+    <string name="yes">
+да</string>
+    <string name="no">нет</string>
+
+    <string name="chrs">0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz!@#$%&amp;*</string>
+
+    <string name="large_text">
+
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>

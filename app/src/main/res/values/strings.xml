@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Super Password Manager</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="account_name">Account Name</string>
+    <string name="user_name">Username</string>
+    <string name="pword">Password</string>
+    <string name="acctExists">A record with this account name already exists</string>
+    <string name="saved">Saved</string>
+    <string name="noBlank">Cannot be blank</string>
+    <string name="expt">Exported to: </string>
+    <string name="subtl">Accounts</string>
+    <string name="subtl2">Account Data</string>
+    <string name="copied">Password copied to clipboard</string>
+
+    <string name="save">Save</string>
+    <string name="gen">Generate Password</string>
+    <string name="viewSaved">View Saved Passwords</string>
+    <string name="export">Export Database</string>
+    <string name="importD">Import Database</string>
+    <string name="copy">Copy</string>
+    <string name="entryDeleted">Entry has been deleted</string>
+    <string name="canceled">Canceled</string>
+    <string name="delete">Delete this entry?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="chrs">0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz!@#$%&amp;*</string>
+
+    <string name="large_text">
+
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>

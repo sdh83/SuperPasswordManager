@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Super Password Manager</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+
+    <string name="account_name">用户名</string>
+    <string name="user_name">用户名</string>
+    <string name="pword">密码</string>
+    <string name="acctExists">使用此帐户名称的记录已经存在</string>
+    <string name="saved">保存</string>
+    <string name="noBlank">不能是空白的</string>
+    <string name="expt">出口: </string>
+    <string name="subtl">账户</string>
+    <string name="subtl2">
+帐户数据</string>
+    <string name="copied">密码复制到剪贴板</string>
+
+    <string name="save">保存</string>
+    <string name="gen">生成的密码</string>
+    <string name="viewSaved">查看密码</string>
+    <string name="export">
+导出数据库</string>
+    <string name="importD">导入数据库</string>
+    <string name="copy">复制</string>
+    <string name="entryDeleted">项中删除</string>
+    <string name="canceled">取消</string>
+    <string name="delete">删除这个项目吗？</string>
+    <string name="yes">是</string>
+    <string name="no">没有</string>
+
+    <string name="chrs">0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz!@#$%&amp;*</string>
+
+    <string name="large_text">
+
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>

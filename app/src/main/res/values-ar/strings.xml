@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Super Password Manager</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+
+
+    <string name="account_name">أسم الحساب</string>
+    <string name="user_name">اسم المستخدم</string>
+    <string name="pword">كلمات السر</string>
+    <string name="acctExists">وجود حساب</string>
+    <string name="saved">تم الحفظ</string>
+    <string name="noBlank">فارغ</string>
+    <string name="expt">تصديرها إلى: </string>
+    <string name="subtl">حسابات</string>
+    <string name="subtl2">بيانات الحساب</string>
+    <string name="copied">كلمة نسخ</string>
+
+    <string name="save">حفظ</string>
+    <string name="gen">إنشاء كلمة مرور</string>
+    <string name="viewSaved">كلمات السر رأي</string>
+    <string name="export">تصدير قاعدة البيانات</string>
+    <string name="importD">قاعدة بيانات الواردات</string>
+    <string name="copy">نسخ</string>
+    <string name="entryDeleted">دخول المحذوفة</string>
+    <string name="canceled">ألغيت</string>
+    <string name="delete">حذف هذه الإضافة؟</string>
+    <string name="yes">نعم فعلا</string>
+    <string name="no">لا</string>
+
+    <string name="chrs">0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz!@#$%&amp;*</string>
+
+    <string name="large_text">
+
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
